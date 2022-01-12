@@ -1,4 +1,3 @@
-use axb1988_FINAL_PROJECT;
 
 /* Q1 */
 SELECT COUNT(*) AS "Number of Copies"
